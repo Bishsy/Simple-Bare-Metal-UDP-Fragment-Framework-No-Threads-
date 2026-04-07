@@ -1,4 +1,4 @@
-Excellent ✅  
+
 Below is a **complete single C file** designed for:
 
 - ✅ Arria 10 SoC  
