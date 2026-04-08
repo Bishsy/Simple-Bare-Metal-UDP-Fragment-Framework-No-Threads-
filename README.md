@@ -24,7 +24,6 @@ You only need to replace the 3 low-level Ethernet driver functions.
 
 ---
 
-# ✅ What You Must Implement For Arria 10
 
 Replace:
 
