@@ -1,7 +1,5 @@
 
 Below is a **complete single C file** designed for:
-
-- ✅ Arria 10 SoC  
 - ✅ Bare-metal  
 - ✅ No threads  
 - ✅ No malloc  
